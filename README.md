@@ -31,4 +31,9 @@
 - Next you need to fix the connectionString in 2 App.config files of APLSProject and APLSProjectDomain projects.
 - You copy the connection string you just got pasted into the value of connectionString as shown in the image below.
 *Note that if you used authentication earlier, you need to add the password to be able to connect to the database on your computer.*
-![](https://user-images.githubusercontent.com/54711078/64114232-ae171100-cdb6-11e9-84e6-2a84ccf6b1de.png)
+![](https://user-images.githubusercontent.com/54711078/64114278-cb4bdf80-cdb6-11e9-9d86-91f8abb53ed6.png)
+
+### Finally, you can run the application
+- If you want to log in to the student's application then you use the account whose username starts with the letter "S" as in the Account table in the database.
+- If you want to log in to the teacher's application, you use the account whose username starts with the letter "T" as in the Account table in the database.
+- And of course the password is indispensable to login. Because the password in sql has been hashed, you can log in with the password "lucbeo123" with both accounts in the database.
