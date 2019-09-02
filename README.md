@@ -37,3 +37,5 @@
 - If you want to log in to the student's application then you use the account whose username starts with the letter "S" as in the Account table in the database.
 - If you want to log in to the teacher's application, you use the account whose username starts with the letter "T" as in the Account table in the database.
 - And of course the password is indispensable to login. Because the password in sql has been hashed, you can log in with the password "lucbeo123" with both accounts in the database.
+# Thank you for visiting
+- The application still has a lot of errors so you should experience it slowly. thank you!!
