@@ -1,0 +1,1 @@
+# APLSProjct_school_mini
